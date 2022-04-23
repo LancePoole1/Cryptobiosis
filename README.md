@@ -1,1 +1,2 @@
 # Cryptobiosis
+Cryptobiosis or anabiosis is a metabolic state of life entered by an organism in response to adverse environmental conditions such as desiccation, freezing, and oxygen deficiency. In the cryptobiotic state, all measurable metabolic processes stop, preventing reproduction, development, and repair. When environmental conditions return to being hospitable, the organism will return to its metabolic state of life as it was prior to the cryptobiosis.
